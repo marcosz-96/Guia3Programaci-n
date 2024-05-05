@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\bin\Debug\TP Programación 1.exe.config
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\bin\Debug\TP Programación 1.exe
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\bin\Debug\TP Programación 1.pdb
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\obj\Debug\TP Programación 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\obj\Debug\TP Programación 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\obj\Debug\TP Programación 1.exe
+C:\Users\Usuario\Documents\Primeros Pasos en C#\TP Programación 1\TP Programación 1\obj\Debug\TP Programación 1.pdb
