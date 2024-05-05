@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\bin\Debug\Practicas Guia 3.exe.config
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\bin\Debug\Practicas Guia 3.exe
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\bin\Debug\Practicas Guia 3.pdb
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\obj\Debug\Practicas Guia 3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\obj\Debug\Practicas Guia 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\obj\Debug\Practicas Guia 3.exe
+C:\Users\Usuario\Documents\Primeros Pasos en C#\Practicas Guia 3\Practicas Guia 3\obj\Debug\Practicas Guia 3.pdb
